@@ -1,0 +1,16 @@
+{
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 13,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai",
+  "typescript.validate.enable": false,
+  "javascript.implicitProjectConfig.checkJs": false,
+  "go.liveErrors": {
+    "enabled": true,
+    "delay": 500
+  },
+  "go.useLanguageServer": false, //kind of buggy for now
+  "go.useCodeSnippetsOnFunctionSuggest": true,
+  "go.lintTool": "gometalinter"
+}
